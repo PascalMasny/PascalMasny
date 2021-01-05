@@ -1,4 +1,4 @@
-### Hi! Passi here!
+### Hi, Passi here!
 16 Year old trainee from Germany learning to
 code and automate.
 
