@@ -2,7 +2,7 @@
 17yo trainee from germany who codes all day long.
 
 #### Skills:
-- (Micro-)Elektronic :electric_plug: :zap:
+- (Micro-)Electronic :electric_plug: :zap:
 - Arduino/Raspberry Pi
 - PC-Hardware :computer:
 - Python, Bash, Java, automation 
