@@ -3,7 +3,7 @@
 code and automate.
 
 #### Skills:
-- (Micro-)Elektronik :electric_plug:
+- (Micro-)Elektronik :electric_plug: :zap:
 - Arduino/Raspberry Pi
 - PC-Hardware :computer:
 - Python, Bash, Java, automation 
