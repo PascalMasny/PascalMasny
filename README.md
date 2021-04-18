@@ -1,13 +1,13 @@
 ### Hi, Passi here!
-17 Year old trainee from Germany learning to
-code and automate.
+17yo trainee from germany, who codes all day long.
 
 #### Skills:
-- (Micro-)Elektronik :electric_plug: :zap:
+- (Micro-)Elektinics :electric_plug: :zap:
 - Arduino/Raspberry Pi
 - PC-Hardware :computer:
 - Python, Bash, Java, automation 
 - networking (Cisco CCNA aproved)
+- Cryptocurrencys ₿
 
 #### Hobbies:
 - MTB :bike:
