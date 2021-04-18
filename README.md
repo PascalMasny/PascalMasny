@@ -1,5 +1,5 @@
 ### Hi, Passi here!
-17yo trainee from germany, who codes all day long.
+17yo trainee from germany who codes all day long.
 
 #### Skills:
 - (Micro-)Elektronic :electric_plug: :zap:
