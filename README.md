@@ -13,3 +13,7 @@
 - MTB :bike:
 - Soldering
 - Coding
+
+#### My Git:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pasixd189&langs_count=8&theme=radical)]()
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pasixd189&show_icons=true&theme=radical)
