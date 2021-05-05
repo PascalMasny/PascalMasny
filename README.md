@@ -5,7 +5,7 @@
 - (Micro-)Electronic :electric_plug: :zap:
 - Arduino/Raspberry Pi
 - PC-Hardware :computer:
-- Python, Bash, Java, automation 
+- Python, Java, Linux, automation 
 - networking (Cisco CCNA aproved)
 - Cryptocurrencies ₿
 
