@@ -6,7 +6,7 @@
 - Arduino/Raspberry Pi
 - PC-Hardware :computer:
 - Python, Java, Linux, automation 
-- networking (Cisco CCNA aproved)
+- Networking (Cisco CCNA aproved) & IT-Security
 - Cryptocurrencies ₿
 
 #### Hobbies:
