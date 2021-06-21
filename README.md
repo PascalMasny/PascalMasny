@@ -7,7 +7,7 @@
 - PC-Hardware :computer:
 - Python, Java, Linux, automation 
 - Networking (Cisco CCNA aproved) & IT-Security
-- Cryptocurrencies ₿
+- Cryptocurrencies ₿ & Stocks 📈
 
 #### Hobbies:
 - MTB :bike:
